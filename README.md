@@ -18,7 +18,7 @@ Paleta de colores y tipografías
     --color-texto-secundario: #526477;
 
     /* Colores de estado */
-    --color-exito: #202945;
+    --color-exito: #E0F3E6;
     --color-advertencia: #FDDAAD;
     --color-error: #FCE8E6;
 
